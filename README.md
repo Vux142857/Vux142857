@@ -1,11 +1,11 @@
+![logo](https://github.com/Vux142857/Vux142857/blob/main/IamProgrammerEnglish.png?raw=true)
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate web developer from Viet Nam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vux142857" alt="vux142857" /></a> </p>
 
-- 🌱 I’m currently studying **Computer Science in Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City – VNU-HCM**
+- 🌱 I’m currently studying **Computer Science in Ho Chi Minh City University of Technology - Vietnam National University, Ho Chi Minh City (VNU-HCM)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
