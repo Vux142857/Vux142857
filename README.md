@@ -6,4 +6,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vux142857&show_icons=true&locale=en" alt="vux142857" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vux142857&" alt="vux142857" /></p>
